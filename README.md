@@ -26,8 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 
-'''
-DOCTYPE html
+    """
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,8 +44,8 @@ DOCTYPE html
     <area target="" alt="GThotel " title="GThotel " href="GThotel.html" coords="171,225,388,226,371,330,151,348" shape="poly">
 </map>
 </body>
-
-</html>'''
+</html>
+"""
 
 ## OUTPUT
 ![alt text](MAP.png)
