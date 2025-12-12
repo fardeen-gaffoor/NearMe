@@ -26,10 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 
-'''
-Home.html 
-
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,11 +44,7 @@ Home.html
 </map>
 </body>
 
-</html>
-
-'''
-
-
+</html>'''
 ## OUTPUT
 ![alt text](MAP.png)
 ![alt text](<sivan park .png>)
