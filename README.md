@@ -25,7 +25,10 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 '''
+Home.html 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +47,55 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
+
+fitnessstudio.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fitnessstudio</title>
+</head>
+<body bycolour = "cyan" text="red">
+    <img src="fitnessstudio.jpg" height="600" width="700">
+    <p>Black Bull Fitness Studio is a growing chain of unisex gyms in Chennai, known for its supportive community, certified trainers, and diverse offerings like personal training, weight loss programs, CrossFit, Zumba, and yoga, providing modern equipment in a clean, friendly environment to help members achieve holistic fitness goals with personalized attention and various fitness challenges. </p>
+    
+</body>
+</html>
+
+GThotel.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GThotel</title>
+</head>
+<body bycolour = "cyan" text="red">
+    <img src="GThotel.jpg" height="600" width="700">
+    <p>A "GT Hotel" typically refers to GT Grande Hotel in Chennai, India, known for its central T. Nagar location, blending South Indian design with classic elegance, offering amenities like a spa, restaurant, free Wi-Fi, and proximity to consulates and shopping. It's a budget-friendly option for travelers seeking comfort and convenience, though experiences can vary. </p>
+    
+</body>
+</html>
+
+sivanpark.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sivanpark</title>
+</head>
+<body bycolour = "cyan" text="red">
+    <img src="sivanpark.jpg" height="600" width="700">
+    <p>Sivan Park in K.K. Nagar, Chennai, is a popular, spacious green space known for its lush trees, walking paths, and recreational facilities, featuring a prominent Lord Shiva statue, children's play areas (swings, slides), and sports courts (badminton), offering a peaceful escape for walkers, families, and fitness enthusiasts, also hosting cultural events like flower shows and summer camps. </p>
+    
+</body>
+</html>
+
 '''
 
 
